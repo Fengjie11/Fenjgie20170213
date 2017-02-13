@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <fengjie.baway.com.fenjgie20170213.CustomView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:circle_colour="@color/colorPrimaryDark"
+        app:circle_text="1234"
+        app:inner_circle_r="100"
+        app:top_circle_r="200"
+        />
+
+</LinearLayout>

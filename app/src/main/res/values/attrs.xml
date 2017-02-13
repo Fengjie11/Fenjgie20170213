@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="top_circle_r" format="integer"/>
+        <attr name="inner_circle_r" format="integer"/>
+        <attr name="circle_colour" format="color"/>
+        <attr name="circle_text" format="string"/>
+
+    </declare-styleable>
+</resources>
